@@ -20,7 +20,6 @@ export default function Navigation() {
         {/* Logo */}
         <Link href="/" className="text-2xl font-extrabold text-blue-600 tracking-tight">
           Aether<span className="text-gray-900">Dynamics</span>
-        }
         </Link>
 
         {/* Desktop Menu */}

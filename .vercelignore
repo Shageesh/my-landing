@@ -1,0 +1,18 @@
+# Vercel build output
+.next
+
+# Development
+node_modules
+.env.local
+.env.*.local
+
+# Testing
+coverage
+
+# IDE
+.vscode
+.idea
+
+# OS
+.DS_Store
+*.log
